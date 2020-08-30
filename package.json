@@ -1,5 +1,5 @@
 {
-    "name": "Amadeus",
+    "name": "amadeus",
     "version": "1.0.0",
     "description": "A bot which will help you to see the minimum and recommended requirements of a game without having to search it on the internet.",
     "main": "amadeus_bot.js",
