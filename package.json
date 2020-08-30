@@ -1,0 +1,14 @@
+{
+    "name": "Amadeus",
+    "version": "1.0.0",
+    "description": "A bot which will help you to see the minimum and recommended requirements of a game without having to search it on the internet.",
+    "main": "amadeus_bot.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node .",
+      "lint": "eslint ."
+    },
+    "keywords": [],
+    "author": "enigmaverse",
+    "license": "ISC"
+  }
