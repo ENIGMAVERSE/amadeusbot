@@ -3,6 +3,16 @@
     "version": "1.0.0",
     "description": "A bot which will help you to see the minimum and recommended requirements of a game without having to search it on the internet.",
     "main": "amadeus_bot.js",
+    
+    "engines": {
+        "node": "12.14.1",
+        "npm": "6.13.4"
+      },
+      
+      "repository": {
+        "type": "git",
+        "url": "git+link"
+      },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node .",
@@ -11,4 +21,6 @@
     "keywords": [],
     "author": "enigmaverse",
     "license": "ISC"
-  }
+  
+}
+  
