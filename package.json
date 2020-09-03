@@ -4,12 +4,12 @@
   "description": "An in-depth guide on deploying your Discord.js bot on Heroku",
   "main": "amadeus_bot.js",
   "engines": {
-    "node": "8.x",
-    "npm": "*"
+    "node": "12.14.1",
+    "npm": "6.13.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node amadeus_bot.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
     "heroku",
     "discord.js"
   ],
-  "author": "synicalsyntax",
+  "author": "enigmaverse",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ENIGMAVERSE/amadeusbot/issues"
