@@ -1746,4 +1746,4 @@ function listCommand(arguments, receivedMessage) {
 }
 
 //Logs into Discord
-client.login(process.env.token);
+client.login("NzQ4MDgwMDczMjU2NzMwNjQ1.X0YN3A.w8yuDF-51R1HAgo9511sAEn-Yc0")
